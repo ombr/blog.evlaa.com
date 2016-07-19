@@ -4,7 +4,6 @@ title:  "Top 5 platforms to create your optimized photography website "
 date:   2016-07-23 14:34:25
 categories: website tools
 tags: featured
-published: true
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
