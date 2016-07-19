@@ -20,8 +20,8 @@ author_image: "/assets/images/martin.jpg"
 
 paginate:	5
 
-url: "http://evlaa.com" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://martin-letellier.github.io" # the base hostname & protocol for your site
+baseurl: "/mediator"
 #used to display twitter cards
 twitter_handle: '@evlaaPlugin'
 
