@@ -3,7 +3,6 @@ layout: post
 title:  "5 tips to improve your photography website"
 date:   2016-07-20 14:34:25
 categories: website tips
-tags: 
 published: true
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---

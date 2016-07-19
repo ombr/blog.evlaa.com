@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 5 platforms to create your optimized photography website "
+title:  "top 5 platforms to create your optimized photography website "
 date:   2016-07-23 14:34:25
 categories: website tools
 published: true
@@ -17,7 +17,7 @@ Except if you love it, if you really want to have a special design, have time or
 
 #1. [22Slides][22slides]
 
-![Screenshot 22slides](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/22slides.png)
+![Screenshot 22slides](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/22slides.png)
 
 They are not the most famous website builder platform but they provide a great solution to get a quick and profesionnal website.
 Great customer supports, very simple tools and simple price (only 10$ per months, unlimited). 
@@ -29,7 +29,7 @@ This is a great option for 10$/month (they made it simple, they have only one pl
 
 #2. [Format][format]
 
-![Screenshot Format](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/format.png)
+![Screenshot Format](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/format.png)
 
 Format allows you to have a great designed website. They have different modern themes and are optimized for mobile. 
 Very good looking gallery to have a professional website in a minute. 
@@ -38,7 +38,7 @@ They have a cheap plan at just 6$ a month and they have a 14days free trial as w
 
 #3. [Koken][koken] 
 
-![Screenshot Koken](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/koken.png)
+![Screenshot Koken](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/koken.png)
 
 This system is quite different than the other since it’s more a CMS like the famous Wordpress. Koken is specialized for the photography domain, that means that their system is optimized for photographer. 
 This solution will allow you to get a website more customizable but easily than just doing by yourself. 
@@ -51,7 +51,7 @@ koken un peu à la wordpress ms special pour photographe ils ont un store avec d
 
 #4. [Squarespace][squarespace]
 
-![Screenshot Squarespace](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/squarespace.png)
+![Screenshot Squarespace](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/squarespace.png)
 
 This is probably one of the biggest website builder for creative peoples.
 They have made some great designed templates. They are all responsive and optimized. 
@@ -67,7 +67,7 @@ The prices begin from 12$ per months.
 
 #5. [Zenfolio][zenfolio]
 
-![Screenshot Zenfolio](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/zenfolio.png)
+![Screenshot Zenfolio](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/zenfolio.png)
 
 Zenfolio is another big actor in the website builder for photographer. They are specialized in photography website.
 As squarespace they are pretty complete, SEO, mobile friendly, social, ecommerce…
@@ -82,7 +82,7 @@ They begin at 5$/months for the first plan (enough for a simple website) and the
 
 #6. [PhotoDeck][photodeck]
 
-![Screenshot Photodeck](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/photodeck.png)
+![Screenshot Photodeck](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/photodeck.png)
 
 As the others solutions, they have multiple design and have a lot of different features like e commerce (with 0% commission), favorites, private galleries... 
 Their websites are very fast that means that the clients will never wait to have a page loaded.  
@@ -93,7 +93,7 @@ They are quite expensive with their first plan at 15$ per months to have a portf
 
 #7. [Icon6][icon6]
 
-![Screenshot Icon6](/assets/article_images/2016-07-23-Top-7-platforms-to-create-your-optimized-photography-website/icon6.png)
+![Screenshot Icon6](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/icon6.png)
 
 Then I would like to talk to you about this french startup who does a great job as well. 
 Icon6 offer you a simple tool to create your own website.
