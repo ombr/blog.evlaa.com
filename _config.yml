@@ -31,7 +31,7 @@ disqus: evlaa
 # social icons and sharing options
 social:
   - icon:	facebook
-    url:	https://facebook.com/evlaaPlugin
+    url:	https://facebook.com/evlaa
     desc: Follow us on Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
