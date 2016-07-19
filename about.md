@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+We developped [Evlaa][evlaa] to help photographers to save time. 
+With this blog we would like to provide tips and to share our experience to help photographers to use better tools and to improve their digital skills. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+>In this blog, you will find tips, new software, plugins, interviews, inspirations to improve your digital presence.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+You are a Photographer, but you need to be a sales, marketings, customer support, web developper, coffee maker and a lot of other Job as well. That's why we would like to share with you **some usefull tips to help you to focus on Photography** and be more productive in all the other jobs. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[Evlaa][evlaa] is a tool for professional photographer that simplifies the selection of photos with your clients. You can try it for free [here][evlaa]
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[evlaa]:	https://www.evlaa.com
