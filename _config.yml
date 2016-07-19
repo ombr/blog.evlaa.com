@@ -19,6 +19,7 @@ author: 'Martin Letellier'
 author_image: "/assets/images/martin.jpg"
 
 paginate:	5
+future: true
 
 url: "https://martin-letellier.github.io" # the base hostname & protocol for your site
 baseurl: "/martin-letellier.github.io"
