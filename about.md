@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Luc & Martin from Evlaa](/assets/images/lucmartin.jpg)
+
 We developped [Evlaa][evlaa] to help photographers to save time. 
 With this blog we would like to provide tips and to share our experience to help photographers to use better tools and to improve their digital skills. 
 
