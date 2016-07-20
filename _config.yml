@@ -40,7 +40,7 @@ paginate:	5
 future: true
 
 url: "https://martin-letellier.github.io" # the base hostname & protocol for your site
-baseurl: "/martin-letellier.github.io"
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@evlaaPlugin'
 
