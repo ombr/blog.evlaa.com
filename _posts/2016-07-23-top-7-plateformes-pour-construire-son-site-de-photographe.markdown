@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "top 7"
+title:  "top 7 plateformes pour construire son site de photographe"
 date:   2016-07-23 14:34:25
 categories: website tools
 published: true
