@@ -10,6 +10,18 @@ title:
 description: #>  this means to ignore newlines until "email:"
   en: We will share Tips to help photographers improve their digital skills
   fr: Nous partageons ici des Tips pour aider les photographes à améliorer leur présence digitale
+copyright:  
+  en: All content copyright 
+  fr: Tout contenu est la propriété de
+reserved: 
+  en: All rights reserved.
+  fr: Tous les droits sont réservés.
+love: 
+  en: Made with 
+  fr: Fait avec
+and: 
+  en: and
+  fr: et 
 
 email: evlaa@evlaa.com
 #blog logo
@@ -61,3 +73,5 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+

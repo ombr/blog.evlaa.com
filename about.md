@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+lang: fr
+ref: about
 ---
 
 ![Luc & Martin from Evlaa](/assets/images/lucmartin.jpg)
