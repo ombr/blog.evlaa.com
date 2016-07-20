@@ -22,6 +22,9 @@ love:
 and: 
   en: and
   fr: et 
+backoverview: 
+  en: {{ site.backoverview[page.lang] }}
+  fr: Retour à l'accueil
 
 email: evlaa@evlaa.com
 #blog logo
