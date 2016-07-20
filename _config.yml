@@ -39,7 +39,7 @@ author_image: "/assets/images/martin.jpg"
 paginate:	5
 future: true
 
-url: "https://martin-letellier.github.io" # the base hostname & protocol for your site
+url: "https://blog.evlaa.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@evlaaPlugin'
