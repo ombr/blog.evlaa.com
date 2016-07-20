@@ -103,6 +103,9 @@ A beautiful promise very encouraging
 The prices are going from 9 to 30€ per months
 This french startup propose a simple tool to create your own website
 
+
+That’s our rundown of some of the top options out there for hosting your photography website. If you use, and would recommend a service that isn’t listed here, feel free to share it with us in the comments!
+
 [22slides]:	http://www.22slides.com
 [format]:	https://format.com/
 [koken]:	http://koken.me/
