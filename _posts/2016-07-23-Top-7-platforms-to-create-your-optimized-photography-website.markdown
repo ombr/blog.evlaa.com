@@ -91,7 +91,7 @@ They have a Lightroom plugin that allows you to work on the images of your websi
 
 They are quite expensive with their first plan at 15$ per months to have a portfolio. If you want a bigger website it goes to 30 or 80$ per months
 
-#7. [Icon6][icon6]
+# 7. [Icon6][icon6]
 
 ![Screenshot Icon6](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/icon6.png)
 
@@ -104,7 +104,7 @@ The prices are going from 9 to 30€ per months
 This french startup propose a simple tool to create your own website
 
 ---
-That’s our rundown of some of the top options out there for hosting your photography website. If you use, and would recommend a service that isn’t listed here, feel free to share it with us in the comments!
+That’s our synopsis of some of the top options out there for hosting your photography website. If you use, and would recommend a service that isn’t listed here, feel free to share it with us in the comments!
 
 [22slides]:	http://www.22slides.com
 [format]:	https://format.com/
