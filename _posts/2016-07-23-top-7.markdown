@@ -4,8 +4,7 @@ title:  "top 7"
 date:   2016-07-23 14:34:25
 categories: website tools
 published: true
-lang: fr
-ref: top7platforms
+lang: en
 image: /assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/cover.jpg
 ---
 
