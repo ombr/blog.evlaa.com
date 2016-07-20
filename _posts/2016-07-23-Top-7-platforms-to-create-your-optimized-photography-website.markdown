@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "top 5 platforms to create your optimized photography website "
+title:  "top 7 platforms to create your optimized photography website "
 date:   2016-07-23 14:34:25
 categories: website tools
 published: true
@@ -9,7 +9,7 @@ image: /assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimize
 
 As a photographer, you need a great website to show your work and to get new clients. As I told you on my previous article, have an optimized website is very important otherwise it will be a bit useless since nobody will see it.
 
-As a photographer, you already have tons of works. Your clients don’ts always see the post production work and everything you have to do to offer them your awesome photographies. So you need to be productive and efficient on all these side works, otherwise you’ll need to work so hard. 
+As a photographer, you already have tons of works. Your clients don’t always see the post production work and everything you have to do to offer them your awesome photographies. So you need to be productive and efficient on all these side works, otherwise you’ll need to work so hard. 
 
 The website is something that could take so much time since you have a lot of possibilities and you can always do better. Using platform is a good way to have professional, modern and well maintained website without taking so much time to build it. 
 
