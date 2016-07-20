@@ -4,9 +4,12 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Evlaa Blog"
-description: > # this means to ignore newlines until "email:"
-   We will share Tips to help photographers improve their digital skills
+title: 
+  en: "Evlaa Blog"
+  fr: "Evlaa le Blog"
+description: #>  this means to ignore newlines until "email:"
+  en: We will share Tips to help photographers improve their digital skills
+  fr: Nous partageons ici des Tips pour aider les photographes à améliorer leur présence digitale
 
 email: evlaa@evlaa.com
 #blog logo

@@ -12,10 +12,10 @@ lang: en
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title[page.lang] }}</a>
     {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
+    <h1 class="blog-title">{{ site.title[page.lang] }}</h1>
+    <h2 class="blog-description">{{ site.description[page.lang] }}</h2>
     <div class="custom-links">
       {% for social in site.social %}
         {% if social.url %}
@@ -31,6 +31,22 @@ lang: en
 
 
 <main class="content" role="main">
+
+<ul>
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
 
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
