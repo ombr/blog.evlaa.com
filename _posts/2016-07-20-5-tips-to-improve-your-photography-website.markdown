@@ -12,7 +12,7 @@ Improve your website is primordial since it will help you to get more customers,
 
 As an entrepreneur in the web industry, here are my 5 biggest tips to improve your professional photography website. 
 
-#1. Mobility 
+# 1. Mobility 
 
 ![Why do you need a responsive photography website?](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/web-statistic.png)
 
@@ -30,7 +30,7 @@ Besides Google has recently announced that they will promote the websites that a
 - In case you are customized the CSS, don’t use fixed margin, size or element and use a percentage size instead.
 
 
-#2. Rapidity 
+# 2. Rapidity 
 
 ![Your clients have no time and Google algorithm as well](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/clock.jpg)
 
@@ -49,7 +49,7 @@ Besides the search engines take this in consideration in their algorithms, it's 
 - **use tool** to build your website if you are not an expert. Their work is to improve their tool and the speed is usually one of the biggest priority.
 
 
-#3. Easy to use
+# 3. Easy to use
 
 ![Your client are not always technology aware...](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/easy.jpg)
 
@@ -65,7 +65,7 @@ You don’t need to have every details on your website. Make the things simple a
 - **Clear menu**
 - One thing per page or per section. Do not multiply information, it will confuse your readers
 
-#4. SEO
+# 4. SEO
 
 **Your website is one of the most scallable way to get new clients**. It is your online visibility. But it’s very hard to be found by your clients since there are tons of photography websites. You need to optimize your website for the search engines (as google), for exemple by choosing the right keywords. 
 
@@ -78,7 +78,7 @@ You don’t need to use them in the same order… The search engines are smart, 
 - Simplify the **social sharing/following**
 - **Be present** : Social media, blog, comments, like...
 
-#5. Easy to maintain
+# 5. Easy to maintain
 
 **You are a photographer not a web developper**. You have already a lot of things to do on the Photography side. You need to save your time to focus on the things where you are the best. 
 

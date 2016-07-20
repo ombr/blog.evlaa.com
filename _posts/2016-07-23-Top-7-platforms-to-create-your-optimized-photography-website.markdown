@@ -15,7 +15,7 @@ The website is something that could take so much time since you have a lot of po
 
 Except if you love it, if you really want to have a special design, have time or experience or money, you should use a platform. Some of them are great and allow you to have optmized website quickly with possibility to customize it with your personnal branding.
 
-#1. [22Slides][22slides]
+# 1. [22Slides][22slides]
 
 ![Screenshot 22slides](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/22slides.png)
 
@@ -27,7 +27,7 @@ They are not working  with templates, but they allow you to define where you hav
 This is a great option for 10$/month (they made it simple, they have only one plan)
 
 
-#2. [Format][format]
+# 2. [Format][format]
 
 ![Screenshot Format](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/format.png)
 
@@ -36,7 +36,7 @@ Very good looking gallery to have a professional website in a minute.
 Their system is very easy to use and you can have a website in a minute. 
 They have a cheap plan at just 6$ a month and they have a 14days free trial as well. 
 
-#3. [Koken][koken] 
+# 3. [Koken][koken] 
 
 ![Screenshot Koken](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/koken.png)
 
@@ -49,7 +49,7 @@ This is a great solution for photographers who wants a very specific website.
 The big advantage is that it’s free to use. You just need to install it to your server and configure it. You can buy some premium features/templates.
 koken un peu à la wordpress ms special pour photographe ils ont un store avec des features en plus free
 
-#4. [Squarespace][squarespace]
+# 4. [Squarespace][squarespace]
 
 ![Screenshot Squarespace](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/squarespace.png)
 
@@ -65,7 +65,7 @@ They have a big customer support that you can reach everytime.
  
 The prices begin from 12$ per months. 
 
-#5. [Zenfolio][zenfolio]
+# 5. [Zenfolio][zenfolio]
 
 ![Screenshot Zenfolio](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/zenfolio.png)
 
@@ -80,7 +80,7 @@ They have a great customer support as well.
 They begin at 5$/months for the first plan (enough for a simple website) and then go to 20 an 30$ per months for the other plans)
 
 
-#6. [PhotoDeck][photodeck]
+# 6. [PhotoDeck][photodeck]
 
 ![Screenshot Photodeck](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/photodeck.png)
 
