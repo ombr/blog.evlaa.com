@@ -23,7 +23,7 @@ and:
   en: and
   fr: et 
 backoverview: 
-  en: {{ site.backoverview[page.lang] }}
+  en: Back to Overview
   fr: Retour à l'accueil
 
 email: evlaa@evlaa.com
