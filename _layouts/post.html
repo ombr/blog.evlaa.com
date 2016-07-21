@@ -5,20 +5,21 @@
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
-    <ul class='social'>
+    <table class='social'>
       {% for social in site.social %}
         {% if social.share_url != null %}
 
-        <li>
+        <tr>
+        <td>
           <a class="fa fa-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
-                  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">    
-          </a> 
-        </li>
+          onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+          </a>
+          </td> 
+        </tr>
         {% endif %}
       {% endfor %}
- 
-  
-</ul>
+    </table>
+
     <main class="content" role="main">
       <article class="post">
         {% if page.image %}

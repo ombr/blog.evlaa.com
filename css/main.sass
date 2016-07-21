@@ -254,7 +254,7 @@ body
         bottom: 0
         text-indent: -9999px
         padding-top: 33%
-        z-index: 1
+        z-index: 50
       .post-image-image2
         display: none
     @media(max-width: 700px)
@@ -269,13 +269,13 @@ body
         bottom: 0
         text-indent: -9999px
         padding-top: 33%
-        z-index: 1
+        z-index: 50
     .post-meta
       position: absolute
       bottom: $rs*5
       left: 30%
       right: 30%
-      z-index: 9
+      z-index: 60
       font-family: $font-sans
       @include box-sizing(border-box)
       @include respond-to(800)
@@ -626,17 +626,15 @@ pre
 
 
 .social 
-  height: 220px 
   position: fixed 
   margin-top: 20% 
   perspective: 1000px
-  list-style-type: none
   right: 0px
+  background: #222 
+  border-radius: 5px 0 0 5px
 
 
-
-
-.social li a 
+.social td a 
   display: block 
   height: 20px 
   width: 40px 
@@ -649,20 +647,28 @@ pre
   text-align: center 
   transition: background .5s ease .300ms
 
-.social li a.fa-facebook:hover
+.social td a.fa-facebook:hover
   background: #3b5998
-.social li a.fa-twitter:hover
+.social td a.fa-twitter:hover
   background: #00acee
-.social li a.fa-google-plus:hover
+.social td a.fa-google-plus:hover
   background: #dd4b39
 
-.social li:first-child a 
-  border-radius: 5px 0 0 0 
-.social li:last-child a 
-  border-radius: 0 0 0 5px
+@media(max-width:767px)
+  .social
+    position: fixed
+    z-index: 40
+    bottom: 0
+    left: 0
+    width: 100%
+    border-radius: 0
+  .social td a 
+    width : 100%
+    height : 10px
+  .social tr > *
+    display: block
+  .social tr 
+    display: table-cell
 
 
-.social li a:hover span 
-  visibility: visible 
-  opacity: 1 
-  transform: rotateY(0)
+
