@@ -16,7 +16,7 @@ The website is something that could take so much time since you have a lot of po
 
 Except if you love it, if you really want to have custom design, have time, experience or money, you should use a platform. 
 
-# 1. [22Slides][22slides]
+# 1. [22Slides][22slides]{:target="_blank"}
 
 ![Templates 22slides](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/22slides.png)
 They are not the most famous website builder platform but they provide a great solution to get a quick and profesionnal website.
@@ -27,7 +27,7 @@ You can have a **free domain name for a year**. As they are small, they provide 
 This is a great option for **10$/month** (they made it simple, they have only one plan) and they have 30daus free trial.
 
 
-# 2. [Format][format]
+# 2. [Format][format]{:target="_blank"}
 
 ![Screenshot Format](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/format.png)
 Format allows you to have a **great designed website**. They have different modern themes and are **optimized for mobile**. 
@@ -38,7 +38,7 @@ Besides, they have a **Lightroom plugin** that allows you to manage,directly fro
 
 They have a cheap plan at just **6$ a month** (for 100 images) to 44$ a month (unlimited) and they have a 14days free trial. 
 
-# 3. [Koken][koken] 
+# 3. [Koken][koken]{:target="_blank"}
 
 ![Screenshot Koken](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/koken.png)
 This system is quite different than the other since it’s more **a CMS like the famous Wordpress**. Koken is specialized for the photography domain, that means that their system is optimized for photographer. 
@@ -53,7 +53,7 @@ Besides, they have a **Lightroom plugin** that allows you to publish images to y
 
 The big advantage is that it’s **free to use**. You just need to install it to your server and configure it. You can buy some premium features/templates.
 
-# 4. [Squarespace][squarespace]
+# 4. [Squarespace][squarespace]{:target="_blank"}
 
 ![Screenshot Squarespace](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/squarespace.png)
 This is probably one of the biggest website builder for creative peoples.
@@ -68,7 +68,7 @@ They have a big customer support that you can reach everytime.
  
 The prices begin from **12$ a months**. 
 
-# 5. [Zenfolio][zenfolio]
+# 5. [Zenfolio][zenfolio]{:target="_blank"}
 
 ![Screenshot Zenfolio](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/zenfolio.png)
 Zenfolio is another big actor. They are specialized in photography website.
@@ -83,7 +83,7 @@ They have a great customer support as well.
 They begin at **5$ a months** for the first plan (enough for a simple website) and then go to 20 an 30$ per months for the other plans)
 
 
-# 6. [PhotoDeck][photodeck]
+# 6. [PhotoDeck][photodeck]{:target="_blank"}
 
 ![Screenshot Photodeck](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/photodeck.png)
 As the others solutions, they have multiple design and have a lot of different features like e commerce (with 0% commission), favorites, private galleries... 
@@ -94,7 +94,7 @@ They have a **Lightroom plugin** that allows you to work on the images of your w
 
 They are quite expensive with their first plan at **15$ per months** to have a portfolio. If you want a bigger website it goes to 30 or 80$ per months
 
-# 7. [Icon6][icon6]
+# 7. [Icon6][icon6]{:target="_blank"}
 
 ![Screenshot Icon6](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/icon6.png)
 Then I would like to talk to you about this **french startup** who does a great job as well. 
