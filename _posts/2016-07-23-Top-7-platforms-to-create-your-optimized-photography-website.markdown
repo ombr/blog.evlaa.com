@@ -8,6 +8,7 @@ published: true
 lang: en
 ref: top7platforms
 image: /assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/cover.jpg
+image2: /assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/cover.jpg
 ---
 
 As a photographer, you need a great website to show your work and to get new clients. As I told you on my previous article, have an optimized website is very important otherwise it will be a bit useless since nobody will see it.
