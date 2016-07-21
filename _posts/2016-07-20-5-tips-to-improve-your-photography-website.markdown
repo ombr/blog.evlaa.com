@@ -68,6 +68,7 @@ Make the things simple and you'll see that people will love to go to your websit
 
 # 4. SEO
 
+![Optimize your website to be found by your clients](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/seo.jpg)
 **Your website is one of the most scallable way to get new clients**. It is your online visibility. But it’s very hard to be found by your clients since there are tons of photography websites. You need to optimize your website for the search engines (as google), for exemple by choosing the right keywords. 
 
 If you choose “portrait photographer” as keyword, you will be in competition with tons of other portrait photographer. You should use something like “original corporate portrait photographer for startup”. That’s call **long tail keywords** and it’s more specific to your business and less competitive.
@@ -81,6 +82,7 @@ If you choose “portrait photographer” as keyword, you will be in competition
 
 # 5. Easy to maintain
 
+![You are a Photographer, not a Web developper : don't waste your time](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/maintain.jpg)
 **You are a photographer not a web developper**. You have already a lot of things to do on the Photography side. You need to save your time to focus on what you are the best. 
 
 > It’s better to use tools/platforms that allows you to get a website easily and quickly.
