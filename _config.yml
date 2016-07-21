@@ -63,6 +63,11 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
+  - icon: google-plus
+    desc:  Add me on google
+    share_url: https://plus.google.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
   # - icon:	github
   #   url:	https://github.com/dirkfabisch
   #   desc:	Fork me on github
