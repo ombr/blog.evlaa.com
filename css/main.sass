@@ -623,3 +623,46 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+
+.social 
+  height: 220px 
+  position: fixed 
+  margin-top: 20% 
+  perspective: 1000px
+  list-style-type: none
+  right: 0px
+
+
+
+
+.social li a 
+  display: block 
+  height: 20px 
+  width: 40px 
+  background: #222 
+  border-bottom: 1px solid #333 
+  color: #fff 
+  -webkit-font-smoothing: antialiased 
+  padding: 10px 
+  text-decoration: none 
+  text-align: center 
+  transition: background .5s ease .300ms
+
+.social li a.fa-facebook:hover
+  background: #3b5998
+.social li a.fa-twitter:hover
+  background: #00acee
+.social li a.fa-google-plus:hover
+  background: #dd4b39
+
+.social li:first-child a 
+  border-radius: 5px 0 0 0 
+.social li:last-child a 
+  border-radius: 0 0 0 5px
+
+
+.social li a:hover span 
+  visibility: visible 
+  opacity: 1 
+  transform: rotateY(0)
