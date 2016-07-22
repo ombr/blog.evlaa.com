@@ -39,6 +39,25 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
+.multilingue 
+  position: fixed
+  right: 10px
+  top: 10px
+  overflow: hidden
+  z-index: 99
+.multilingue a
+  color: #999
+  text-decoration: none
+  &:hover
+    color: #333
+    text-decoration: underline
+    font-weight: bold
+.multilingue a.selected
+  color: #333
+  font-weight: bold
+
+
+
 .logo-readium
   position: fixed
   left: 10px
