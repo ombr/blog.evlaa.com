@@ -5,6 +5,16 @@
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
+
+    <div class="multilingue">
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% if posts.size > 1 %}
+        {% for post in posts %}
+            <a href="{{ post.url }}" class="{% if post.lang == page.lang %}selected{% endif %} {{ post.lang }}">{{ post.lang }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+
     <table class='social'>
       {% for social in site.social %}
         {% if social.share_url != null %}
@@ -62,9 +72,9 @@
         <br>
         {% endif %}
         <section class="post-content">
-          <div class="post-reading">
+          <!-- <div class="post-reading">
             <span class="post-reading-time"></span> read
-          </div>
+          </div> -->
           <a name="topofpage"></a>
           {{content}}
         </section>
