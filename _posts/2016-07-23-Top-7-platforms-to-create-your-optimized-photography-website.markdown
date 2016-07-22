@@ -25,7 +25,7 @@ They are not the most famous website builder platform but they provide a great s
 Their websites are **fast, responsive, elegant and optimized**. You can customized the design of your website easily as they allow different parts of each page to be controlled independently. 
 You can have a **free domain name for a year**. As they are small, they provide a great customer support.
 
-This is a great option for **10$/month** (they made it simple, they have only one plan) and they have 30daus free trial.
+This is a great option for **10$/month** (they made it simple, they have only one plan) and they have 30days free trial.
 
 
 # 2. [Format][format]{:target="_blank"}
