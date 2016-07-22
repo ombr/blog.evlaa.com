@@ -5,6 +5,14 @@
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
+    <div class="multilingue">
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% if pages.size > 1 %}
+        {% for relatedpage in pages %}
+            <a href="{{ relatedpage.url }}" class="{% if relatedpage.lang == page.lang %}selected{% endif %} {{ relatedpage.lang }}">{{ relatedpage.lang }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
     <main class="content" role="main">
       <article class="post">
         {% if page.image %}
