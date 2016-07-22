@@ -6,6 +6,7 @@ categories: tips
 tags: website
 published: true
 lang: en
+ref: improveSite
 image: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/cover.jpg
 image2: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/cover.jpg
 ---
