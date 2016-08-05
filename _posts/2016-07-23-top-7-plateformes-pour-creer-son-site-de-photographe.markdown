@@ -108,7 +108,7 @@ Les prix vont de **9 à 30€/mois**.
 ---
 Ce n'est qu'une petite partie des options proposées pour créer son site web. Si vous utilisez, et recommandez un service qu'on n'a pas présenté ici, n'hésitez pas à le partager en commentaire! 
 
-[Mes 5 conseils pour améliorer votre site de photographe]({% post_url 2016-07-20-5-conseils-pour-ameliorer-votre-site-de-photographe %})
+Pourquoi utilisez de telles plateformes? Quelques éléments de réponse dans cet article : [Mes 5 conseils pour améliorer votre site de photographe]({% post_url 2016-07-20-5-conseils-pour-ameliorer-votre-site-de-photographe %})
 
 [22slides]:	http://www.22slides.com
 [format]:	https://format.com/

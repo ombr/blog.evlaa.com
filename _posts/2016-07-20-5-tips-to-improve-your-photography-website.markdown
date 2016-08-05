@@ -30,7 +30,7 @@ As this is your personnal branding, it’s very important to have your website o
 Besides Google has recently announced that they promote the websites that are optimized for mobile devices in their algorithm, which means you will appear higher...
 
 - **Use responsive templates** (in case your website is built with Wordpress or any other CMS for exemple)
-- **Use Platforms** : if you are not an expert. All the current platforms to develop a website have responsive templates since it is one of the biggest revolution in the web industry for the past 10 years.
+- **Use Platforms** : if you are not an expert. All the current platforms to develop a website have responsive templates since it is one of the biggest revolutions in the web industry for the past 10 years.
 - **Don’t use heavy element** (like high resolution images) that will take a lot of time to load. Mobile devices haven't always good internet connection and little memory.
 - In case you decide to customize the CSS, don’t use fixed margin, size or element but rather use a percentage size instead.
 
@@ -56,10 +56,10 @@ Besides the search engines take it in consideration in their algorithms, it's ev
 # 3. Easy to use
 
 ![Your client are not always technology aware...](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/easy.jpg)
-Your clients are not always very confident with internet. 
+**Your clients are not always very confident with internet**. 
 Making your site very easy to use with very simple navigation, menu, pages… will allow everybody to enjoy your work and navigate into your website easily. 
 
-You don’t need a very sophisticated website. As a photographer, you already have great assets that make your website attractive : Your Images.
+You don’t need a very sophisticated website. As a photographer, you already have great assets that make your website attractive : **Your Images**.
 Make the things simple and you'll see that people will love your website and find the piece of information they want. 
 
 >What about the paperwork where you are never able to find the information except by reading 1000 pages of text. Do you like it?
@@ -96,6 +96,6 @@ If you choose “portrait photographer” as keyword, you will be in competition
 - *If you have enough budget, you can pay a freelance to build your website. But you need to insist about the maintenance to be able to change a little bit the content if needed.*
 
 ---
-[Top 7 platforms to create your optimized photography website]({% post_url 2016-07-23-top-7-platforms-to-create-your-optimized-photography-website %})
+Feel free to read [Top 7 platforms to create your optimized photography website]({% post_url 2016-07-23-top-7-platforms-to-create-your-optimized-photography-website %}) where I give you an overview of the best platforms to create your photography website.
 
 

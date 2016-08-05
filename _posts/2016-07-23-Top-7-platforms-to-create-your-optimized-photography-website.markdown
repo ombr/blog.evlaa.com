@@ -109,7 +109,7 @@ The prices are going from **9 to 30€ a months**
 ---
 That’s our synopsis of some of the top options out there for hosting your photography website. If you use, and would recommend a service that isn’t listed here, feel free to share it with us in the comments!
 
-[My 5 tips to improve your photography website]({% post_url 2016-07-20-5-tips-to-improve-your-photography-website %})
+Why would you need to use a platform to build your website? Here some tips : [My 5 tips to improve your photography website]({% post_url 2016-07-20-5-tips-to-improve-your-photography-website %})
 
 [22slides]:	http://www.22slides.com
 [format]:	https://format.com/
