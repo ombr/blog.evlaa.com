@@ -95,3 +95,6 @@ Si vous choisissez "photographe de portrait" comme mot clé, vous allez être en
 - **Faites des choses simples**
 - *Si vous avez suffisament de budget, vous pouvez payer un freelance pour créer votre site. Mais vous devez insister sur la maintenance pour vous permettre de changer facilement et rapidement un peu de contenus si besoin.*
 
+
+---
+[Top 7 plateformes pour créer son site optimisé de photographe]({% 2016-07-23-top-7-plateformes-pour-creer-son-site-de-photographe %})

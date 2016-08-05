@@ -94,3 +94,8 @@ If you choose “portrait photographer” as keyword, you will be in competition
 - Use easy tools and don’t customize too much if you are not ready to go into them.
 - **Make it simple**
 - *If you have enough budget, you can pay a freelance to build your website. But you need to insist about the maintenance to be able to change a little bit the content if needed.*
+
+---
+[Top 7 platforms to create your optimized photography website]({% post_url 2016-07-23-top-7-platforms-to-create-your-optimized-photography-website %})
+
+
