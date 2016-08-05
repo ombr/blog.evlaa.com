@@ -97,4 +97,4 @@ Si vous choisissez "photographe de portrait" comme mot clé, vous allez être en
 
 
 ---
-[Top 7 plateformes pour créer son site optimisé de photographe]({% 2016-07-23-top-7-plateformes-pour-creer-son-site-de-photographe %})
+[Top 7 plateformes pour créer son site optimisé de photographe]({% post_url 2016-07-23-top-7-plateformes-pour-creer-son-site-de-photographe %})
