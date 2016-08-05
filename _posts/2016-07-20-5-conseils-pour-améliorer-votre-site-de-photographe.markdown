@@ -11,6 +11,7 @@ image: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-webs
 image2: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/cover.jpg
 ---
 En tant que photographe professionel, votre site web est un de vos outils les plus importants. C'est votre vitrine et vos clients potentiels vont y jeter un oeil avant de prendre la décision de travailler avec vous ou non. 
+
 C'est également le moyen le plus scalable d'être découvert par de nouveaus clients. C'est votre image de marque en ligne et la première impression que vous donnez aux clients.
 
 Améliorer votre site web est primordial car cela vous permet de gagner de nouveaux clients, d'être plus professionel et de construire un lien de confiance avec vos futures clients.

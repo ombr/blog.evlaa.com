@@ -11,6 +11,7 @@ image: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-webs
 image2: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/cover.jpg
 ---
 As a professional photographer, your website is one of your most important tool. It is your show room, your potential customers will take a look on this portfolio before taking their decision to work with you or not. 
+
 This is one of the most scallable way to be discovered by new customer. This is your online branding and the first impression you'll give to your clients. 
 
 Improving your website is primordial since it will help you to get more customers, to be more professional and build trust with your future clients. 
