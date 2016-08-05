@@ -23,7 +23,7 @@ Voici une sélection d'outils des plus performants...
 ![Templates 22slides](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/22slides.png)
 Ce ne sont pas les plus connus, mais ils proposent une super solution pour avoir rapidement un beau site professionnel spécialisé pour Photographe. 
 
-Leur sites sont **rapides, responsive, élégants et optimisés**. La personnalisation du site est simplifiée car ils permettent de controller les différentes parties des pages indépendamment. 
+Leurs sites sont **rapides, responsive, élégants et optimisés**. La personnalisation du site est simplifiée car ils permettent de controller les différentes parties des pages indépendamment. 
 Vous pouvez avoir un **nom de domaine gratuit pour 1 an**. Ils sont petits et donc sont proches de leurs utilisateurs.
 
 C'est une très bonne option pour **10$/mois** (ils ont fait simple, ils n'ont qu'un seul plan) et ils proposent 30 jours d'essais gratuits.
@@ -35,9 +35,9 @@ C'est une très bonne option pour **10$/mois** (ils ont fait simple, ils n'ont q
 Format vous permet de créer un **site très design**. Ils ont différents templates modernes et **optimisés pour mobile**.
 Leur système est **très simple d'utilisation**.
 
-De plus, ils ont un **Plugin Lightroom** qui vous permet de gérer, directement de Lightroom, vos galleries et de synchroniser vos images. 
+De plus, ils ont un **Plugin Lightroom** qui vous permet de gérer, directement de Lightroom, vos galeries et de synchroniser vos images. 
 
-Ils ont un premier tarif accéssible à seulement **6$/mois** (pour 100 images) et cela peut monter jusqu'à 44$/mois (illimité). 
+Ils ont un premier tarif accessible à seulement **6$/mois** (pour 100 images) et cela peut monter jusqu'à 44$/mois (illimité). 
 Ils proposent 14 jours d'essais gratuits.
 
 # 3. [Koken][koken]{:target="_blank"}
@@ -45,9 +45,9 @@ Ils proposent 14 jours d'essais gratuits.
 ![Koken](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/koken.png)
 Ce système est un peu différent des autres car il s'agit plus d'un **CMS à la wordpress**. Koken est spécialisé dans le domaine de la photographie, et donc leur système est optimisé pour les besoins des photographes.
 
-Cette solution vous permet d'avoir un site beaucoup plus personnalisable mais tout en restant plus simple que de le développer entièrement soit même.
+Cette solution vous permet d'avoir un site beaucoup plus personnalisable mais tout en restant plus simple que de le développer entièrement soit-même.
 Koken est plus pour des **photographes avec des compétences techniques** puisque vous devez l'installer vous même et créer le site web. 
-Ils ont un shop avec des templates premium, des fonctionnalités... 
+Ils ont un [shop][https://store.koken.me/]{:target="blank"} avec des templates premium, des fonctionnalités... 
 
 C'est une très bonne solution pour les photographes qui veulent un site très spécifique. 
 
@@ -58,13 +58,13 @@ Le gros avantage de cette solution est qu'elle est **gratuite**. Il suffit juste
 # 4. [Squarespace][squarespace]{:target="_blank"}
 
 ![Squarespace](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/squarespace.png)
-C'est probablement un des système les plus connus pour les créatifs (photographes, designers...) Ils ont des templates très design et ils sont tous **responsive et optimisé**
+C'est probablement un des systèmes les plus connus pour les créatifs (photographes, designers...) Ils ont des templates très design et ils sont tous **responsives et optimisés**.
 Leur système est relativement facile à utiliser et il y a une **grosse communauté** qui permet d'avoir des réponses et tutoriels facilement.
 
-Ils ont une **application mobile** qui permet de s'occuper de son site en permanence. Je ne suis pas sûr que ce soit la fonctionnalité la plus utile car on ne change pas son site toutes les minutes, mais c'est toujours bon à avoir. :-) 
+Ils ont une **application mobile** qui permet de s'occuper de son site en permanence. *Je ne suis pas sûr que ce soit la fonctionnalité la plus utile car on ne change pas son site toutes les minutes, mais c'est toujours bon à avoir. :-)* 
 
 Squarespace est un **système complet** avec des analytics, du e-commerce, des intégrations sociales...
-Toutes leurs fonctionnalités peuvent être rajouter à tous les templates, ce qui est plutôt cool :-)
+Toutes leurs fonctionnalités peuvent être rajoutées à tous les templates, ce qui est plutôt cool :-)
 Ils ont un gros support client que l'on peut contacter 24/24. 
 
 Les prix commencent à **12$/mois**.
@@ -73,12 +73,12 @@ Les prix commencent à **12$/mois**.
 
 ![Zenfolio](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/zenfolio.png)
 Zenfolio est un autre gros acteur. Ils sont spécialisés dans les sites pour photographes (contrairement à squarespace qui est plus général).
-Comme squarespace, ils sont très complet, SEO, responsive, réseaux sociaux, ecommer... 
+Comme squarespace, ils sont très complet, SEO, responsive, réseaux sociaux, ecommerce... 
 Leurs sites sont **rapides et légers**.
 
 Ils ont un **Plugin Lightroom** qui simplifie le téléchargement de vos photos sur votre site web.
 
-Le design de leurs site est très beau mais peut être pas le meilleur (très subjectif). 
+Le design de leurs sites est très beau mais peut être pas le meilleur (très subjectif). 
 Ils ont également un très bon support client. 
 
 Les prix commencent à **5$/mois** (suffisant pour un site web simple) puis directement entre 20 et 30$/mois pour les autres plans.
@@ -87,17 +87,17 @@ Les prix commencent à **5$/mois** (suffisant pour un site web simple) puis dire
 # 6. [PhotoDeck][photodeck]{:target="_blank"}
 
 ![Photodeck](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/photodeck.png)
-Comme les autres solutions, ils ont différents design et ont de nombreuses fonctionnalités comme le e-commerce (avec 0% de commission), galleries privées, favoris...
-Leurs sites sont **très rapide** et **optimisés pour les mobiles**.
+Comme les autres solutions, ils ont différents design et ont de nombreuses fonctionnalités comme le e-commerce (avec 0% de commission), galeries privées, favoris...
+Leurs sites sont **très rapides** et **optimisés pour les mobiles**.
 
 Ils ont un **plugin Lightroom** qui permet de travailler sur les images de son site directement de Lightroom. 
 
-Ils sont assez cher comparé aux autre puisque leur premier prix est à **15$/mois** pour avoir un portfolio. Pour un site plus conséquent cela va de 30 à 80$/mois.
+Ils sont assez cher comparé aux autres puisque leur premier prix est à **15$/mois** pour avoir un portfolio. Pour un site plus conséquent cela va de 30 à 80$/mois.
 
 # 7. [Icon6][icon6]{:target="_blank"}
 
 ![Icon6](/assets/article_images/2016-07-23-top-7-platforms-to-create-your-optimized-photography-website/icon6.png)
-Et enfin, je souhaiterais vous parlez d'une **startup Française** qui fait également du très bon boulot. 
+Et enfin, je souhaiterais vous parler d'une **startup Française** qui fait également du très bon boulot. 
 Icon6 est un **outil très simple** pour créer son propre site web. 
 
 Ils sont **responsive, multilingue, facile à utiliser, prêt pour les réseaux sociaux et optimisé pour les moteurs de recherches**.
@@ -108,7 +108,7 @@ Les prix vont de **9 à 30€/mois**.
 ---
 Ce n'est qu'une petite partie des options proposées pour créer son site web. Si vous utilisez, et recommandez un service qu'on n'a pas présenté ici, n'hésitez pas à le partager en commentaire! 
 
-Pourquoi utilisez de telles plateformes? Quelques éléments de réponse dans cet article : [Mes 5 conseils pour améliorer votre site de photographe]({% post_url 2016-07-20-5-conseils-pour-ameliorer-votre-site-de-photographe %})
+Pourquoi utiliser de telles plateformes? Quelques éléments de réponse dans cet article : [Mes 5 conseils pour améliorer votre site de photographe]({% post_url 2016-07-20-5-conseils-pour-ameliorer-votre-site-de-photographe %})
 
 [22slides]:	http://www.22slides.com
 [format]:	https://format.com/
