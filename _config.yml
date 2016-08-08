@@ -56,6 +56,12 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
+  - icon: google-plus
+    desc:  Add me on google
+    share_url: https://plus.google.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
   - icon: twitter
     url:  https://twitter.com/evlaaPlugin
     desc: Follow us on Twitter
@@ -63,9 +69,9 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon: google-plus
-    desc:  Add me on google
-    share_url: https://plus.google.com/share
+
+  - icon: linkedin
+    share_url: https://www.linkedin.com/shareArticle?
     share_title: ?text=
     share_link: "&amp;url="
   # - icon:	github
