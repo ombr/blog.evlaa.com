@@ -76,8 +76,7 @@ Rendez les choses simples et vous verrez que les gens apprécieront votre site e
 
 Si vous choisissez "photographe de portrait" comme mots-clés, vous allez être en compétition avec tous les autres photographes de portrait. Vous devriez plutôt utiliser quelque chose comme "photographe de portrait professionnel original pour startup". Cela s'appelle **long tail keywords** (mots clés longue traîne),c'est plus spécifique à votre business et moins compétitif.
 
-- **Trouvez les mots clés que vos potentiels clients utilisent** pour vous chercher et utilisez les dans votre site web (à plusieurs reprises).
-
+- **Trouvez les mots clés que vos potentiels clients utilisent** pour vous chercher et utilisez les dans le texte de votre site web (à plusieurs reprises).
 *Vous n'avez pas besoin de les utiliser dans le même ordre.. les moteurs de recherches sont très smart, croyez moi ;-)* 
 - Renseignez correctement les titres, entêtes, titres/alt texte d'images... (avec des mots clés correspondant au contenu de votre page)
 - Remplissez les **meta datas** 

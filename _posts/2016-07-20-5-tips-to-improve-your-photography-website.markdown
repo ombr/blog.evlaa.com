@@ -76,7 +76,7 @@ Make the things simple and you'll see that people will love your website and fin
 
 If you choose “portrait photographer” as keyword, you will be in competition with tons of other portrait photographers. You should use something like “original corporate portrait photographer for startup”. That’s called **long tail keywords** and it’s more specific to your business and less competitive.
 
-- **Find the keywords your clients will use** to find you and use them on your website.
+- **Find the keywords your clients will use** to find you and use them in the text of your website.
 *You don’t need to use them in the same order… The search engines are smart, trust me ;-)* 
 - Define correctly the titles, headers, images titles, images alt text... (with keywords and it needs to be relevant regarding the content you have on the page)
 - Fill the **meta datas** 
