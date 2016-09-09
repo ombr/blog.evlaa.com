@@ -128,8 +128,6 @@ N'hésitez pas à partager et commenter si vous aimez ou si vous souhaitez parta
 
 Au plaisir d'en discuter 
 
-Martin
-
 
 
 [hootsuite]: http://hootsuite.com/

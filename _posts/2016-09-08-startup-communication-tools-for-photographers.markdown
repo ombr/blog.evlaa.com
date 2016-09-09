@@ -126,7 +126,7 @@ I'm using all these tools daily and I hope it will help you to save time to focu
 Feel free to comment and share it if you like or if you have other great tools to share! 
 
 Cheers
-Martin
+
 
 
 [hootsuite]: http://hootsuite.com/
